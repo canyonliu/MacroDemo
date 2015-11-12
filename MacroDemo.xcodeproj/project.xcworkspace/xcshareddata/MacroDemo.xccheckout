@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFF19EAE-B2F4-4738-B18E-1E7A64308AA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MacroDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E9BB6743FFC3E4AE8B75B9B439FAACDE1C17D82</key>
+		<string>https://github.com/loadingArbert/MacroDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MacroDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E9BB6743FFC3E4AE8B75B9B439FAACDE1C17D82</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/loadingArbert/MacroDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E9BB6743FFC3E4AE8B75B9B439FAACDE1C17D82</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E9BB6743FFC3E4AE8B75B9B439FAACDE1C17D82</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MacroDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
